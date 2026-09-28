@@ -5,4 +5,4 @@ if salary1 >= 5000:
 elif salary2 >= 3000:
     print ("First person :Medium salary")
 else :
-      print ("First person :Low salary:")
+      print ("First person :Low salary:")  
