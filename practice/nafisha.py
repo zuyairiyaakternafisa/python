@@ -4,8 +4,8 @@ if ch == "a" or ch == "e" or ch == "i" or ch == "o" or ch == "u":
 else :
     print("consonant")
 
+qwedwqar
 
+dasasd
 
-
-
-    hdjhfdfjfhkjh
+    hdjhfdfjfhkjherf3wer3qw
