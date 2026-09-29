@@ -1,4 +1,4 @@
-marks = 64 
+marks = 100
 if marks >= 88 :
     print ("A+")
 elif marks >=72 : 
@@ -11,5 +11,4 @@ elif marks >= 47 :
    print ("c ")
 elif marks >= 32 :
    print ("D")
-else :
-    print ("Fail")
+#
