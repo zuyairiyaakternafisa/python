@@ -1,0 +1,6 @@
+colour =input("Enter your favourite colour:")
+age= input("Enter your age: ")
+dream = input ("Enter your dream:")
+print ("Your favourite colour is",colour)
+print ("your age",age)
+print ("your dream",dream)
