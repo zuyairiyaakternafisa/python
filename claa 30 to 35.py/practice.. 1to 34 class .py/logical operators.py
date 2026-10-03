@@ -8,3 +8,9 @@ elif num2>num1 and num2>num3:
     print ("num2")
 else :
     print (num1)
+
+ch = "u"
+if ch =="u":
+    print("vowel")
+else :
+    print ("consonant")
