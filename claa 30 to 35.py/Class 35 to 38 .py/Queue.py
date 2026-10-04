@@ -5,5 +5,6 @@ print (bank)
 
 bank.popleft ()
 bank.popleft ()
+
 if not bank :
     print ("No person left")
