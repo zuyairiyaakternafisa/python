@@ -1,0 +1,10 @@
+subjects = [ "C", "C++", "Java ", "Python", "Toc" ]
+print (subjects)
+print ( subjects [0])
+print ( subjects [-1])
+print (subjects [2:])
+print ( "Pythin" in subjects)
+print ( "Os" in subjects)
+print ( "Java" not in subjects)
+print ( "n" not in subjects)
+print ( subjects *3)
