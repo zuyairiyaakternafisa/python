@@ -1,0 +1,6 @@
+num = list (range(10))
+print (num)
+num1 = list (range (2,30,4))
+print (num1)
+num2 = list (range(2,16))
+print (num2)
