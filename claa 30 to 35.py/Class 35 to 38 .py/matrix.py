@@ -7,4 +7,4 @@ total = 0
 for row in matrix :
   for col in row :
       if col % 2 == 0:
-       print (col)
+       dictionarprint (col)
