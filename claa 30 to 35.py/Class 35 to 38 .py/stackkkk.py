@@ -1,0 +1,10 @@
+books = []
+books.append ("Learn c")
+books.append ("Learn C++")
+books.append ("learn java")
+print (books)
+books.pop()
+print (books)
+books.pop()
+books.pop()
+print ("No books left")
