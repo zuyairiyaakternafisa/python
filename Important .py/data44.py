@@ -1,0 +1,2 @@
+name = ("Nafisa")
+print (name)
