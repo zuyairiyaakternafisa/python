@@ -36,3 +36,33 @@ print ( type (w))
 # problem ( 7 )
 a,b,c = 1,2,3
 print ( a,b,c, sep = ",") 
+
+# problem  ( 8 )
+for i in range (3) :
+    for j in range (5) :
+        print ( "*" , end = " ")
+    print ()
+ 
+
+# problem ( 9 )
+value = ( """ Python is easy.
+Python is fun.
+Python is powerul.""")
+print ( value)
+
+
+# problem ( 10)
+name = ("Rahim")
+age = 20
+print (f" {name} is  {age} years old .")
+
+
+# problem  ( 11 )
+name = input (" Enter your name :")
+print ( f" Hellow , {name} !")
+
+# problem  ( 12 )
+num1 = int (input ("Enter a first number:"))
+num2 = int (input ("Enter a second number :"))
+sum = num1 + num2
+print (sum)
